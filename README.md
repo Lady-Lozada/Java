@@ -22,9 +22,3 @@ Entrada:
 2,12345
 3,67890
 0,0
-
-Recomendaciones:
-1. El ejercicio es totalmente agnóstico a la tecnología, usa aquella en que te sientas más cómodo.
-2. Si conoces de pruebas unitarias o desarrollas usando TDD, es ideal que lo apliques en el ejercicio.
-3. Es tan valiosa la funcionalidad entregada como la calidad del código fuente y elegancia de la solución.
-4. En caso que poseas dudas con el ejercicio, comunícate con nosotros.
